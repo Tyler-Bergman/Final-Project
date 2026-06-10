@@ -65,7 +65,7 @@ function preload() {
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(600, 600);
   textFont("Comic Sans MS");
   resetCoins();
 }
